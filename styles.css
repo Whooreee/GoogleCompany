@@ -1,0 +1,381 @@
+body {
+
+
+
+  width: 1200px;
+
+  margin: 0 auto;
+
+  background-color: #FFFFFF;
+
+  padding: 0 20px 20px 20px;
+
+
+
+}
+
+
+
+header {
+
+
+
+  margin: 0 auto;
+
+  padding: 50px 400px 0px 400px;
+
+
+
+}
+
+
+
+ul.navigation {
+
+
+
+    margin: 0;
+
+    padding: 40px 0px 0px 0px;
+
+text-align: center;
+
+
+
+}
+
+
+
+
+
+ul.navigation li.job {
+
+
+
+color: #c4c4c4;
+
+font-size: 12px;
+
+font-family: 'Roboto', sans-serif;
+
+font-weight: medium;
+
+letter-spacing: 1px;
+
+    display: inline;
+
+    margin: 80px;
+
+
+
+}
+
+
+
+main {
+
+
+
+border: 1px solid #333;
+
+    border-color: #a0a0a0;
+
+width: 1000px;
+
+height: 800px;
+
+margin: 50px auto auto auto;
+
+    top: 0;
+
+    right: 0;
+
+    bottom: 0;
+
+    left: 0;
+
+    background-color: #f7f7f7;
+
+
+
+}
+
+
+
+main img.img {
+
+
+
+float: right;
+
+padding: 0px 0px 0px 0px;
+
+
+
+}
+
+
+
+h1 {
+
+
+
+    letter-spacing: 1px;
+
+    float: left;
+
+    color: #4c4c4c;
+
+font-size: 20px;
+
+font-family: 'Roboto', sans-serif;
+
+font-weight: regular;
+
+padding: 110px 0px 0px 90px;
+
+
+
+}
+
+
+
+p {
+
+
+
+float: top;
+
+color: #4c4c4c;
+
+font-size: 14px;
+
+font-family: 'Roboto', sans-serif;
+
+font-weight: regular;
+
+padding: 200px 590px 0px 90px;
+
+line-height: 2;
+
+}
+
+
+
+.block1 {
+
+
+
+   border: 1px solid #333;
+
+   border-color: #a0a0a0;
+
+   width: 1000px;
+
+   height: 700px;
+
+   margin: 50px auto;
+
+   background-color: #f7f7f7;
+
+
+
+}
+
+
+
+.h1-block1 {
+
+
+
+letter-spacing: 1px;
+
+    float: left;
+
+    color: #4c4c4c;
+
+font-size: 20px;
+
+font-family: 'Roboto', sans-serif;
+
+font-weight: regular;
+
+padding: 70px 0px 0px 100px;
+
+
+
+}
+
+
+
+.pmain {
+
+
+
+margin-bottom: 10px;
+
+color: #4c4c4c;
+
+font-size: 14px;
+
+font-family: 'Roboto', sans-serif;
+
+font-weight: regular;
+
+}
+
+
+
+
+
+
+
+form {
+
+
+
+padding: 160px 0px 0px 100px;
+
+
+
+}
+
+
+
+.field {
+
+
+
+padding-top: 10px;
+
+    padding-bottom: 10px;
+
+}
+
+
+
+.mirror {
+
+
+
+margin-left: 10px;
+
+
+
+}
+
+
+
+.mirror1 {
+
+
+
+margin-left: 70px;
+
+
+
+}	 
+
+
+
+.mirror2 {
+
+
+
+margin-left: 60px;
+
+
+
+}
+
+
+
+.mirror3 {
+
+
+
+margin-left: 80px;
+
+
+
+}
+
+
+
+.mirror4 {
+
+
+
+margin-left: 10px;
+
+
+
+}
+
+
+
+.mirror5 {
+
+
+
+margin-left: 55px;
+
+
+
+}
+
+
+
+.block2 {
+
+
+
+   border: 1px solid #333;
+
+   border-color: #a0a0a0;
+
+   width: 1000px;
+
+   height: 1200px;
+
+   margin: 50px auto;
+
+   background-color: #f7f7f7;
+
+}
+
+
+
+.filde {
+
+
+
+padding: 140px 0px 0px 80px;
+
+
+
+}
+
+
+
+.main {
+
+
+
+  margin: 50px auto;
+
+
+
+}
+
+
+
+.youtube {
+
+
+
+padding: 60px 0px 0px 100px;
+
+
+}
+
